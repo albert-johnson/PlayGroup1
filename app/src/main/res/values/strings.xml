@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlayGroup</string>
+    <string name="login_here">Login Here</string>
+    <string name="forget">Forgot Password?</string>
+</resources>
